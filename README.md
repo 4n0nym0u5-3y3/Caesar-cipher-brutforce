@@ -13,7 +13,7 @@ This Python script attempts to decrypt a text that has been encrypted using the 
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3
 
 ### Installation
 
